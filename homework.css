@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 31px;
+}
+.card {
+  display: flex;
+  align-items: center;
+  background: #f4f4f4;
+  border-radius: 5px;
+  gap: 20px;
+  padding: 20px 15px 20px 11px;
+  width: 300px;
+  height: 80px;
+}
+.head {
+  font-family: "PT Sans" sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 39px;
+  color: #000000;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.p-section {
+  font-family: "PT Sans" sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 23px;
+  color: #000000;
+}
+.p-section2 {
+  font-family: "PT Sans" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #000000;
+  margin-top: 3px;
+}
+.container2 {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card3 {
+  background-image: url(./images/kitchen.jpg);
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+}
+.card4 {
+  background-image: url(./images/guestroom.jpg);
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+}
+.card5 {
+  background-image: url(./images/sleeproom.jpg);
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+}
+.card6 {
+  background-image: url(./images/comeroom.jpg);
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+}
+.card7 {
+  background-image: url(./images/garderob.jpg);
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+}
+.card8 {
+  background-image: url(./images/kidroom.jpg);
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+}
+.card9 {
+  background-image: url(./images/sofa.jpg);
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+}
+.card10 {
+  background-image: url(./images/jobroom.jpg);
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+}
+.wrap1 {
+  background: #384685;
+  border-radius: 0px 0px 0px 10px;
+  margin-top: 170px;
+  width: 80px;
+  height: 30px;
+}
+.wrap2 {
+  background: #384685;
+  border-radius: 0px 0px 0px 10px;
+  margin-top: 170px;
+  width: 125px;
+  height: 30px;
+}
+.wrap3 {
+  background: #384685;
+  border-radius: 0px 0px 0px 10px;
+  margin-top: 170px;
+  width: 100px;
+  height: 30px;
+}
+.wrap4 {
+  background: #384685;
+  border-radius: 0px 0px 0px 10px;
+  margin-top: 170px;
+  width: 115px;
+  height: 30px;
+}
+.wrap5 {
+  background: #384685;
+  border-radius: 0px 0px 0px 10px;
+  margin-top: 170px;
+  width: 140px;
+  height: 30px;
+}
+.wrap6 {
+  background: #384685;
+  border-radius: 0px 0px 0px 10px;
+  margin-top: 170px;
+  width: 95px;
+  height: 30px;
+}
+.wrap7 {
+  background: #384685;
+  border-radius: 0px 0px 0px 10px;
+  margin-top: 170px;
+  width: 90px;
+  height: 30px;
+}
+.wrap8 {
+  background: #384685;
+  border-radius: 0px 0px 0px 10px;
+  margin-top: 170px;
+  width: 80px;
+  height: 30px;
+}
+.head2 {
+  font-family: "PT Sans" sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 39px;
+  color: #000000;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.head3 {
+  font-family: "PT Sans" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.065em;
+  color: #ffffff;
+  padding-left: 8px;
+}
